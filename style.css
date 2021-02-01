@@ -57,15 +57,7 @@ main {
   color: #ffffff
 }
 
-.step-num {
-  padding: 3px;
-  position: absolute;
-  top: 0;
-  left: 0;
-  background-color: #ff9a4b;
-  color: #ffffff
-}
-
+/* .step-num コード重複 */
 
 .title {
   margin: 15px 0 5px;
